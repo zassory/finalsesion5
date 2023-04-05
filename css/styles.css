@@ -12,9 +12,13 @@
     color:aliceblue;
 }
 
-.size {
+.size_1 {
     width: 600px;
     height: 550px;
+}
+.size_2 {
+    width: 600px;
+    height: 400px;
 }
 
 .text_area {
